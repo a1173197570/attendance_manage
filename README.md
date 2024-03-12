@@ -5,33 +5,19 @@
 
 #### 软件架构
 软件架构说明
+前端采用vue2.js编写， 后端采用Spring Boot，数据库为mysql
 
+#### 程序截图
+![输入图片说明](img8c2318205aa97a5b21d344cab094a7f.png)
+![输入图片说明](img8cdf12f73e4ca1b64c6f9b4b92cecd8.png)
+![输入图片说明](img2d9ffe5426288ec40b3caaabce25c4b.png)
+![输入图片说明](img564736944f9af59a3547ca4d9168bbc.png)
+![输入图片说明](img1ca497024be63608b38a947e67fdea0.png)
+![输入图片说明](imgf3a60878707426923c52dcb4f1e3701.png)
+![输入图片说明](imga67544057f41cd9b4e5b9805bc08013.png)
+![输入图片说明](img7b961d5937f6f4ea0814395c33963bf.png)
+![输入图片说明](imge39b01bca5bb2edee3c8ab318904582.png)
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 联系我
+微信：xtb365 可有偿提供源码、技术咨询等等， 备注来意
+![输入图片说明](imgimage.png)
