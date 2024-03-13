@@ -7,6 +7,7 @@
 软件架构说明
 前端采用vue2.js编写， 后端采用Spring Boot，数据库为mysql
 
+PS： 图片加载不出来可以去码云看：https://gitee.com/xiaoxu_1_365855675/employee-attendance-system
 #### 程序截图
 ![输入图片说明](img8c2318205aa97a5b21d344cab094a7f.png)
 ![输入图片说明](img8cdf12f73e4ca1b64c6f9b4b92cecd8.png)
